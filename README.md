@@ -16,6 +16,7 @@
 
 ##chapter 2##
 
+    #include <stdlib.h>
     int main() {
 	double i;
 	for(int j=0;i<100;++i) {
