@@ -4,15 +4,20 @@
 
 ##chapter 1##
 
-1.a
-2.b
-3.4
+1.  asddddddddddddd
+    aaa
+2.  dkkkkkkkkkk
+    bbb
+3. asdfasdf
 
 ---
 
 ###section 1###
 
 ##chapter 2##
+
+    #include <stdlib.h>
+    #include <stdio.h>
 
     int main() {
 	double i;
